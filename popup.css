@@ -1,0 +1,24 @@
+body {
+  width: 200px;
+}
+
+.btn {
+  background-color: lightgray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+.blue {
+  background-color: #008cba;
+}
+
+.green {
+  background-color: #4caf50;
+}
